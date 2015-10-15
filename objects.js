@@ -4,4 +4,4 @@ var pizza = {
   serves: 2
 };
 
-console.log(pizza.serves);
+console.log(pizza);
